@@ -1,6 +1,6 @@
-Proyecto realizado con Pyuthon, React, Flask
+Proyecto realizado con Python, React, Flask
 
-Para intalar Flask desde la carpeta prueba 
+Para instalar Flask desde la carpeta prueba 
 
 cd Prueba
 pip install flask
@@ -10,6 +10,7 @@ Iniciar el servidor
 python app.py
 
 En el cliente
+cd prueba
 instalar Axios
 npm install axios
 Instalar bootstrap 
